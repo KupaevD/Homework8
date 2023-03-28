@@ -1,3 +1,4 @@
+package netology.javaqa;
 public class Post {
     public String name;
     public String passport;
